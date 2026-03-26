@@ -1,8 +1,8 @@
 package main
 
 import (
-	git "testProject/Mods/Git"
-	s3 "testProject/Mods/S3"
+	git "github.com/JayaHarrishM/test-zone/testGo/Project/Mods/Git"
+	s3 "github.com/JayaHarrishM/test-zone/testGo/Project/Mods/S3"
 )
 
 func main() {

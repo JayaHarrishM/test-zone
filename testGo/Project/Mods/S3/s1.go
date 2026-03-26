@@ -2,7 +2,8 @@ package s3
 
 import (
 	"fmt"
-	git "testProject/Mods/Git"
+
+	git "github.com/JayaHarrishM/test-zone/testGo/Project/Mods/Git"
 )
 
 func PrintS31(a string) {
