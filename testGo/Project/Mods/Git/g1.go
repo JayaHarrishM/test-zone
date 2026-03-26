@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-const ver = "2.0.0"
+const ver = "1.0.2"
 
 func PrintGit1(a string) {
 	fmt.Println("Git1 ver-", ver, " : ", a)
